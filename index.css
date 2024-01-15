@@ -1,0 +1,147 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-home {
+  width: 1400px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: #f9f1e1;
+}
+.home-logopisadama1 {
+  top: 196px;
+  left: 672px;
+  width: 730px;
+  height: 602px;
+  position: absolute;
+}
+.home-text {
+  top: 86px;
+  left: 105px;
+  color: rgba(18, 100, 80, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Zilla Slab Highlight;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text02 {
+  top: 86px;
+  left: 695px;
+  color: rgba(18, 100, 80, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: NATS;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text04 {
+  top: 86px;
+  left: 818px;
+  color: rgba(18, 100, 80, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: NATS;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text06 {
+  top: 86px;
+  left: 989px;
+  color: rgba(18, 100, 80, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: NATS;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text08 {
+  top: 86px;
+  left: 1213px;
+  color: rgba(18, 100, 80, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: NATS;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text10 {
+  top: 296px;
+  left: 115px;
+  color: rgba(18, 100, 80, 1);
+  width: 648px;
+  height: auto;
+  position: absolute;
+  font-size: 112px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Zilla Slab Highlight;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle1 {
+  top: 731px;
+  left: 117px;
+  width: 515px;
+  height: 67px;
+  position: absolute;
+  border-radius: 52px;
+}
+.home-text17 {
+  top: 744px;
+  left: 236px;
+  color: rgba(249, 241, 225, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: NATS;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-line1 {
+  top: 147px;
+  left: 702px;
+  width: 62px;
+  height: 1px;
+  position: absolute;
+}
